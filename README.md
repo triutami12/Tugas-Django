@@ -3,3 +3,4 @@ Program yang dibutuhkan:
 2. PYTHON 3.9.1
 4. MYSQLCLIENT 1.4.6
 5. XAMPP terbaru
+6. DJANGO 1.11.29
